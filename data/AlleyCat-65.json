@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "AlleyCat",
+  "address": "0x9DfcC853d908eF27Ec32826c96306841218e88f4",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/65"
+}
