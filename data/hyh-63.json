@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "3",
+  "title": "NibblVault's and Basket's ERC20 withdrawal use unsafe underlying token transfer",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/63"
+}
