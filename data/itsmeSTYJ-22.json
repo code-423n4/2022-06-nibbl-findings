@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "itsmeSTYJ",
+  "address": "0xBCa294543b46fF11CFAFbCF67434BEa23c21404b",
+  "risk": "2",
+  "title": "Lack of sanity check on _minBuyoutTime can allow initiateBuyout to be called immediately once the vault is created",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/22"
+}
