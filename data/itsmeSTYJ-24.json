@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "itsmeSTYJ",
+  "address": "0xBCa294543b46fF11CFAFbCF67434BEa23c21404b",
+  "risk": "3",
+  "title": "Lack of sanity check on _initialTokenSupply and _initialTokenPrice can lead to a seller losing his NFT",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/24"
+}
