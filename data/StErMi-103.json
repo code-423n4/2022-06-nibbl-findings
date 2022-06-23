@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "StErMi",
+  "address": "0x2272a321f0151189d66881f5C0971899897eF71B",
+  "risk": "2",
+  "title": "`Twav._getTwav` is using the wrong price observation to calculate the current TWAV",
+  "issueId": 103,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/103"
+}
