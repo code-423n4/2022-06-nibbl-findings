@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "0x29A",
+  "address": "0x0Ea7d69Be83460913E8b6428302d468BDa585D1b",
+  "risk": "2",
+  "title": "Wrong proxy implementation",
+  "issueId": 108,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/108"
+}
