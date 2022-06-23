@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "naps62",
+  "address": "0x1B2f066126475d61bb7a24261Ac30EAB00d84c40",
+  "risk": "2",
+  "title": "NibblVaultFactory can receive funds mistakenly send by users",
+  "issueId": 105,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/105"
+}
