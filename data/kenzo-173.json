@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "3",
+  "title": "When buying on primary and secondary curve, fees are not taken for secondary curve",
+  "issueId": 173,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/173"
+}
