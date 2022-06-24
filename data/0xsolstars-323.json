@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "0xsolstars",
+  "address": "0x83646b933ee0CfA62363a7F15D7533BF2642f006",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 323,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/323"
+}
