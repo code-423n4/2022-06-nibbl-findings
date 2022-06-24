@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "SmartSek",
+  "address": "0x0058dd50c91d60F0A973fE15Fb40e4430F4DAA08",
+  "risk": "3",
+  "title": "Buyout candidate can sell their own tokens to counteract buyout rejection",
+  "issueId": 251,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/251"
+}
