@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429C6d3340449bC828E4218F360672",
+  "risk": "2",
+  "title": "## Unsafe usage of Transfer instead of call to move ether",
+  "issueId": 272,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/272"
+}
