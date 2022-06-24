@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "slywaters",
+  "address": "0xcdc82d78cb49d4baa06d0988afdd27261b0667b2",
+  "risk": "2",
+  "title": "Do not use the `.transfer` function on an address that is `payable`",
+  "issueId": 267,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/267"
+}
