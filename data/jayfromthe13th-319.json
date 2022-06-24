@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "jayfromthe13th",
+  "address": "0x47522595113c48Db04aE640a9e499749B8414e88",
+  "risk": "2",
+  "title": "DoS with block gas limit--External calls inside a loop might lead to a denial-of-service attack.",
+  "issueId": 319,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/319"
+}
