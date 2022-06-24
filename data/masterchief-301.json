@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "masterchief",
+  "address": "0x1DBdFB46085a17C3AdB146561EFE7b0e43a8B785",
+  "risk": "2",
+  "title": "No Validation on MinBuyoutTime",
+  "issueId": 301,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/301"
+}
