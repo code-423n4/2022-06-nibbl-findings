@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "PwnedNoMore",
+  "address": "0xe03a2766325d914898cdA00d4EF927A305786Aa7",
+  "risk": "3",
+  "title": "[PNM-002] Unfairness: the curator (or users with large shares) can always reject payout by sandwich attacks ",
+  "issueId": 266,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/266"
+}
