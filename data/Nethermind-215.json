@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "Nethermind",
+  "address": "0xbc11295936aa79d594139de1b2e12629414f3bdb",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 215,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/215"
+}
