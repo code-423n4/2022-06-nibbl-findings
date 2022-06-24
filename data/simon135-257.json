@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "simon135",
+  "address": "0x7bFbaBDa21BEEBB17E284901BfC41E942F8128C8",
+  "risk": "3",
+  "title": "attacker can give a smaller amount of tokens and  not pay the fees ",
+  "issueId": 257,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/257"
+}
