@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "sseefried",
+  "address": "0x32DE17cc86300381C1f55aEb44F5D419F4f0Ef9D",
+  "risk": "2",
+  "title": "A successful rejection of buyout requires at least 4 `buy`s by users",
+  "issueId": 144,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/144"
+}
