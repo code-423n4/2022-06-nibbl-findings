@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "Nyamcil",
+  "address": "0x53d5820a2fA278a6D63446A3713dCC9979929DE9",
+  "risk": "2",
+  "title": "Call() Should Be Used Instead of Transfer()",
+  "issueId": 124,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/124"
+}
