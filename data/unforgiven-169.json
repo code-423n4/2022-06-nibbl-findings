@@ -1,0 +1,9 @@
+{
+  "contest": 140,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "Contracts Basket and NibbVault is vulnerable to uninitialized implementation contract in proxy pattern ",
+  "issueId": 169,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nibbl-findings/issues/169"
+}
