@@ -1,3 +1,11 @@
+---
+sponsor: "Nibbl"
+slug: "2022-06-nibbl"
+date: "2022-08-01"
+title: "Nibbl contest"
+findings: "https://github.com/code-423n4/2022-06-nibbl-findings/issues"
+contest: 140
+---
 
 # Overview
 
